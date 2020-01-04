@@ -6,7 +6,7 @@
 **2:** Output Statements  
 **3:** Making Decisions  
 **4:** Looping  
-
+**5:** Arrays  
 
 
 ## Instructions
