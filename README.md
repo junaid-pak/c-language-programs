@@ -13,11 +13,11 @@
 
 #### Temperature-Conversion
 
-This [Temperature-Conversion](./Temperature-Conversion) Folder Contains all the Temperature Conversion Programs `From One Unit to Another` :blush:
+This [Temperature-Conversion](./Temperature-Conversion) Folder Contains all the Temperature Conversion Programs `From One Unit to Another` :yum:
 
 #### 999-Program
 
-This Folder Contain One Program in Four Different Methods and Techniques
+This Folder Contain One Program in `Four Different Methods and Techniques` :joy:
 
 
 ### Compiled
@@ -27,9 +27,9 @@ This [Compiled](./compiled) Folder Contain all The Programs of The Repo in Compi
 ***You Can Run These Directyle in Linux***
 
 ```
-1: opening Terminal
+1: open Terminal
 2: Navigate To the "compiled" folder
-3: Simply Run Like "./name-of-program"
+3: Simply Run by Typing "./name-of-program"
 ``` 
 ***If You are on Windows i am not Sure But i Think You Can Run These in Windows to***
 
@@ -38,3 +38,4 @@ This [Compiled](./compiled) Folder Contain all The Programs of The Repo in Compi
 2: Navigate To the "compiled" folder
 3: Simply Run By Typing "name-of-program"
 ```
+***
