@@ -1,6 +1,6 @@
 #include <stdio.h>
-void main()
-{
+
+void main() {
 	int tDeg, tFeh;
 	printf("Input Temp in Degree: ");
 	scanf("%d", &tDeg);
