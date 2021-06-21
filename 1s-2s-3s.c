@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void main()
 {
 	int arr[] = {1,3,3,2,3,1,1,1,2,1,2,3}, count1=0, count2=0, count3=0;
