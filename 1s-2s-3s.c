@@ -11,7 +11,7 @@ void main() {
 		else if(arr[i] == 3)
 			count3++;
 	}
-	printf("Number of 1S: %d\n", count1);
+	printf("1S: %d\n", count1);
 	printf("Number of 2S: %d\n", count2);
 	printf("Number of 3S: %d\n", count3);
 }
