@@ -1,4 +1,4 @@
-#include <stdio.h> // input output header fileclear
+#include <stdio.h>
 void main()
 {
 	int number, sum=0;
